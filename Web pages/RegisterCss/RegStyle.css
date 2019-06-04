@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	/*background-image: linear-gradient(to right, #c2e59c, #64b3f4);*/
+	background: url("raghav.jpg");
+	background-size: cover;
+}
+
+.box{
+
+	text-align: center;
+	-webkit-box-shadow: 0px 0px 25px 6px rgba(105,102,102,1);
+-moz-box-shadow: 0px 0px 25px 6px rgba(105,102,102,1);
+box-shadow: 0px 0px 25px 6px rgba(105,102,102,1);
+}
+
